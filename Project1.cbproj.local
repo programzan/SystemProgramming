@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.421,=C:\Users\nikra\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.884,=C:\Users\nikra\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.839,=C:\Users\nikra\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.005,=C:\Users\nikra\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021.10.24 11:40:17.903,=C:\Users\nikra\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021.10.24 11:40:18.123,=C:\Users\nikra\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021.10.24 11:40:44.752,D:\учеба\5 сем\СистПрог\lab4\Unit1.dfm=C:\Users\nikra\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021.10.24 11:40:44.752,D:\учеба\5 сем\СистПрог\lab4\Unit1.h=C:\Users\nikra\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021.10.24 11:40:44.752,D:\учеба\5 сем\СистПрог\lab4\Unit1.cpp=C:\Users\nikra\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021.10.24 11:40:47.007,D:\учеба\5 сем\СистПрог\lab4\Project1PCH1.h=C:\Users\nikra\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021.10.24 11:40:48.908,D:\учеба\5 сем\СистПрог\lab4\Project1.cbproj=C:\Users\nikra\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
